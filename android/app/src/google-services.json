@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "93864875177",
+    "project_id": "sneakbay-e09d8",
+    "storage_bucket": "sneakbay-e09d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93864875177:android:dd1ced11528749ef3a85b8",
+        "android_client_info": {
+          "package_name": "com.example.admin_scanner_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvykPkIydMkG7631Hv6T1xAv06wErUIPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93864875177:android:7558b36a556867113a85b8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvykPkIydMkG7631Hv6T1xAv06wErUIPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93864875177:android:1c47b9ec7174f1a53a85b8",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvykPkIydMkG7631Hv6T1xAv06wErUIPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
