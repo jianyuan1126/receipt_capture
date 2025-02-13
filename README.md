@@ -1,16 +1,22 @@
-# Receipt_capture
+# Receipt Scanner App
 
-A new Flutter project.
+A Flutter application for scanning and processing receipts.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+1. Download the latest APK from [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases)
 
-A few resources to get you started if this is your first Flutter project:
+2. Enable "Install from Unknown Sources" on your Android device
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Install the downloaded APK
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Features
+- Camera capture with flash control
+
+- Gallery image picker
+
+- Image processing via API
+
+- Local storage of scans
+
+- History view with details
